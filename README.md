@@ -1,0 +1,2 @@
+此代码用于爬取B站弹幕，感谢csdn大佬风云诀4，附学习链接：
+https://blog.csdn.net/qq_42582489/article/details/107800766?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161556048616780271551306%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=161556048616780271551306&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-107800766.first_rank_v2_pc_rank_v29&utm_term=%E7%88%AC%E5%8F%96B%E7%AB%99%E5%BC%B9%E5%B9%95+
